@@ -1,0 +1,26 @@
+{
+  "nodeCode": "TCSR-EASTCOBBGH-TREECUTTIN-T1-P00-N01-LOCAL",
+  "slug": "tcsr-eastcobbgh-treecuttin-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Tree Cutting Service & Tree Removal in Roswell GA — Property Owner Guide",
+  "canonical": "https://charles254.github.io/east-cobb-tree-service/tcsr-eastcobbgh-treecuttin-t1-p00-n01-local/",
+  "primaryEntity": "Tree Cutting Service East Cobb GA",
+  "outgoingLinks": [
+    {
+      "url": "https://treecuttingserviceroswellga.net/service-areas/east-cobb",
+      "anchor": "East Cobb tree service",
+      "rel": "follow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://treecuttingserviceroswellga.net/service-areas/east-cobb",
+    "https://treecuttingserviceroswellga.net/services/tree-removal",
+    "https://treecuttingserviceroswellga.net/services/emergency-tree-removal",
+    "https://treecuttingserviceroswellga.net/services/tree-trimming",
+    "https://treecuttingserviceroswellga.net/services/stump-grinding",
+    "https://treecuttingserviceroswellga.net/services/crane-tree-removal",
+    "https://treecuttingserviceroswellga.net/"
+  ]
+}
